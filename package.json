@@ -24,10 +24,10 @@
     "express",
     "node"
   ],
-  "author": "Edna Jonsson",
+  "author": "Sergio Tapia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ednas/friend-finder/issues"
+    "url": "https://github.com/Nosh41/friend-finder"
   },
   "homepage": "https://github.com/Ednas/friend-finder#readme"
 }
